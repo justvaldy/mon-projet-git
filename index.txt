@@ -1,1 +1,2 @@
-Ligne modifiee depuis main
+<<<<<<< HEAD
+Ligne modifiee depuis main et update-index
